@@ -1,0 +1,28 @@
+.loginpage{
+    margin: auto;
+    padding-bottom: 30px;
+    width:50%;
+    background-color:gray;
+    text-align: center;
+    border: 1px solid rgb(37, 37, 37) ;
+    margin-top: 10%;
+    border-radius: 50px;
+}
+.content{
+    display: flex;
+    justify-content:space-around;
+}
+.button{
+    margin: 10px;
+    padding: 8px;
+}
+.button-login{
+   background-color: rgb(71, 71, 248);
+   border-radius: 15px;
+   padding:10px 30px ;
+   text-transform: capitalize;
+   font-size: 15px;
+   color: white;
+   margin: 10px;
+   padding: 8px;
+}

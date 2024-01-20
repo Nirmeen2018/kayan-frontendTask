@@ -1,0 +1,55 @@
+.selectform{
+    margin: auto;
+    padding: 30px;
+    width: 50%;
+    background-color: #7e7e7e;
+    text-align: center;
+    border: 1px solid rgb(110 106 106);
+    margin-top: 10%;
+    border-radius: 65px;
+    font-size: 20px;
+   
+}
+select,input {
+    padding: 9px;
+    font-size: 16px;
+    border: 0px solid #ccc;
+    border-radius: 20px;
+    width: 200px;
+    margin-bottom: 5px;
+    
+  }
+label {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+
+.visit_date{
+    margin-top: 3%;
+}
+    
+
+.reserve{
+  
+    padding: 15px;
+}
+.reserve-button {
+    padding: 8px 50px;
+    border-radius: 50px;
+    font-size: 18px;
+    /* padding: 15px 20px; */
+    background-color: #b2b2b3;
+    border: none;
+    
+    cursor: pointer;
+}
+/* button {
+    padding: 15px 20px;
+    background-color: #b2b2b3;
+    border: none;
+    
+    cursor: pointer;
+  } */
+  button:hover {
+    background-color: #9ea0a1;
+  }
